@@ -132,3 +132,4 @@ fqi_model.xgb
 src/fast_env.py
 RL/
 .DS_Store
+requirements_original.txt
